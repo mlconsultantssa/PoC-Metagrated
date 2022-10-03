@@ -1,0 +1,7 @@
+
+
+
+SELECT * from public.camera_events LIMIT 2000 -- Select all data 
+
+SELECT * FROM table limit 100` -- get 1st 100 records
+SELECT * FROM table limit 100, 200` -- get 200 records beginning with row 101
